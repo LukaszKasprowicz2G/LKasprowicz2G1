@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+  <html lang="pl-PL">
+    <head>
+      <meta charset="utf-8">
+      <title> Łukasz Kasprowicz 2G1 </title>
+    </head>
+    <body>
+      <h3> Zadanie 1 </h3> <br>
+      <p align="right"> <font color="green" size="1" face="Arial"> Łukasz </font> </p> <br>
+      <p align="right"> <font color="green" size="2" face="Arial"> Łukasz </font> </p> <br>
+      <p align="right"> <font color="green" size="3" face="Arial"> Łukasz </font> </p> <br>
+      <p align="right"> <font color="green" size="4" face="Arial"> Łukasz </font> </p> <br>
+      <p align="right"> <font color="green" size="5" face="Arial"> Łukasz </font> </p> <br>
+      <p align="right"> <font color="green" size="6" face="Arial"> Łukasz </font> </p> <br>
+      <p align="right"> <font color="green" size="7" face="Arial"> Łukasz </font> </p> <br>
+      
+      <h6> Kasprowicz </h6> <br>
+      <h5> Kasprowicz </h5> <br>
+      <h4> Kasprowicz </h4> <br>
+      <h3> Kasprowicz </h3> <br>
+      <h2> Kasprowicz </h2> <br>
+      <h1> Kasprowicz </h1> <br>
+      
+      <p> <font face="Counter New"> :) uśmiech </font> </p> <br>
+      <p> <font face="Times New Roman"> :( smutek </font> </p> <br>
+      <p> <font face="Arial"> :D duży uśmiech </font> </p> <br>
+      <p> <font face="Verdana"> ;( płacz </font> </p> <br>
+      <p> <font face="Times New Roman"> :p usta z językiem </font> </p> <br>
+      <p> <font face="Arial"> :C duży smutek </font> </p> <br>
+      
+      
+      <h3> Zadanie 3 </h3> <br>
+      <b> 80-740 </b>
+      <i> Gdańsk </i>
+      <u> Bratki </u>
+      <strike align="right"> 2 </strike> <br>
+      <p align="center"> <font color="yellow"" size="5" face="Arial"> Ulubiony aktor: Keanu Reeves </font> </p> <br>
+      <p align="center"> <font color="blue" size="4" face="Verdana"> Ulubiony zespół muzyczny: Nirvana </font> </p> <br>
+      <p align="center"> <font color="green" size="3" face="Times New Roman"> Data urodzienia: 27 października 2005 </font> </p> <br>
+      <p> H </p>
+      <sub> 2 </sub>
+      <p> SO </p>
+      <sub> 2 </sub> <br>
+      <p> x*x=x </p>
+      <sup> 2 </sup>
+      
+      
+      <h3> Zadanie 4 </h3> <br>
+      <FIELDSET>
+       <LEGEND> 
+       <br><br><br>
+       <h2> poniżej są trzy wyliczenia z różnymi znakami wyliczenia </h2>
+       <h2> Ty zaproponuj swoje, związane z informatyką </h2>
+       <p> Tekst w HTML: </p> <br>
+       <UL> <h1> najwiekszy nagłówek </UL>
+       <UL> <h6> najmniejszy nagłówek </UL>
+       <UL> <h2> do <h5> zmniejszający się nagłówek </UL>
+       
+       <UL TYPE=circle> <u> podkreślenie </UL>
+       <UL TYPE=circle> <i> kursywa </UL>
+       <UL TYPE=circle> <> </UL>
+       
+       <UL TYPE=square> &nbsp spacja niełamliwa</UL>
+       <UL TYPE=square> <br> przejscie do nowej liniki tekstu</UL>
+       <UL TYPE=square> </UL>
+       
+      </LEGEND>      
+      </FIELDSET>
+      
+    </body>
+  </html>
