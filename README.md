@@ -1,1 +1,0 @@
-# LKasprowicz2G1
