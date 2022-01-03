@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
   <html lang="pl-PL">
   <html>
     <head>
@@ -6,6 +6,47 @@
       <title>formularz_Kasprowicz</title>
     </head>
     <body>
+    
+    <h1 align=center> Zgłoszenie do samorządu  </h1>
+<form>
+<ol>
+	<li> Podaj imie i nazwisko
+		<input type=text name="nazwisko">
+	</li> <br>
+	<li> Podaj klase
+		<input type=text name="klasa">
+	</li> <br>
+	<li> Co chciałbyś/chciałabyś zmienić/dodać? <br>
+		<textarea name="pomysly"> </textarea>
+	</li> <br>
+	<li> Czy należałeś/aś kiedyś do jakiegokolwiek samorządu? <br>
+		<input type=radio name="samorzad"> Tak <br>
+		<input type=radio name="samorzad"> Nie
+	</li> <br>
+	<li> W jakiej dziedzinie najlepiej byś się odnalazł?
+		<select name="dziedzina"> 
+			<option> Wprowadzanie pomysłów do szkoły
+			<option> Nagrywanie ZSE News
+			<option> Montaż filmów
+			<option> Organizacja wydarzeń szkolnych
+		</select>
+	</li> <br>
+	<li> Czy masz czas wolny po zajęciach lekcyjnych? <br>
+		<input type=radio name="wolne"> Tak - od pon. do pt. <br>
+		<input type=radio name="wolne"> Nie - w jakie dni masz wolne? <br>
+		<input type=checkbox name=dni> Poniedziałek
+		<input type=checkbox name=dni> Wtorek
+		<input type=checkbox name=dni> Środa
+		<input type=checkbox name=dni> Czwartek
+		<input type=checkbox name=dni> Piątek
+	</li> <br>
+	
+</ol>
+<input type=submit value=SUBMIT> 
+<input type=reset value=RESET>
+
+</form>
+    
       <a href="index.html"> Wróć </a> <br>
     </body>
 </html>
